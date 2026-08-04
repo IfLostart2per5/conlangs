@@ -1,0 +1,217 @@
+Língua Ogen-ovep
+se baseia em raizes biconsonantais
+sons (49):
+vogais (12): a, e, i, o, u, y (som [y]) + versões longas
+consoantes (32):
+  plosivas (12): k, t, p, b, g, d, kj, tj, pj, bj, gj, dj
+  fricativas (11): h, s, z, x (som [x]), v, f, sj, xj, zj, vj, fj
+  nasais (4): n, m, mj, nj
+  liquidas (4): l, r, lj, rj
+  aproximantes (2): j, w
+  africadas (4): ss (som [ts]), zz (som [dz]), ssj (som [tɕ]), zzj (som [dʑ])
+fonotatica: (C)(C)V(V)(C) (as vezes tem duas consoantes no final, mas é evitado)
+
+moldes:
+agente: C₁oC₂
+conceito: oC₁eC₂
+instrumento: C₁yC₂
+intrumento orgânico: C₁yaC₂
+verbo ativo (de fazer o verbo): C₁eC₂
+verbo passivo (de receber o verbo): C₁ejC₂
+verbo particípio (forma adjetiva que indica que o verbo foi feito em tal objeto): C₁aC₂et
+profissão: C₁iC₂
+objeto: C₁uC₂
+lugar: maC₁aoC₂/maC₁oC₂ (o segundo é mais informal)
+adjetivo: C₁aC₂
+intensificador: i + molde
+intensificador absoluto: u + molde
+fraquizador: a + molde
+fraquizador absoluto: e + molde
+antônimo: molde + as
+crença: guC₁oC₂
+advérbio: C₁eC₂a
+número: meC₁aC₂ (arcaico demais; encontrarás em documentos antigos desta língua no reddit)
+os numerais:
+zero: zzero
+um: uno
+dois: do
+três: tres
+quatro: kwator
+cinco: kwinkwe
+seis: seksa
+sete: septe
+oito: okto
+nove: nowem
+dez: dek/dex
+cem: kent
+mil: mila
+como formar numeros:
+11-19: dek + numero (exceto se o numero for kwinkwe ou kwator. Aí tu usas dex antes no lugar de dek)
+20 a 99: (de- + numero1) + numeroRestante
+100 a 999: (ke- + numero1) + numeroRestante
+1000 a 999999: (mi- + numero1) + numeroRestante
+além disso: uu + numero (da escala) + numeroRestante
+exemplos: 
+249 = kedo dekwator nowem
+11 = dekuno
+2025 = mido dedo-kwinkwe 
+1 000 009 = uuno nowem
+1 200 000 = uuno mikedo
+60 000 = mideseksa
+300 000 = miketres
+100 000 = mikeuno
+38 040 000 = uudetresokto midekwator
+artigos (opcionais, uteis pra clareza):
+definido: zu (da primeira consoante de zn, sensacao)
+indefinido: vu (da primeira consoante de vn, desconhecido)
+sem flexão de genero nem número como no português.
+desinencias verbais:
+tempo:
+  -et = passado
+  -ut = presente
+  -at = futuro
+aspecto:
+  -i = não iniciado
+  -a = iniciado
+  -u = concluido
+volição:
+  -m = desejo
+  -p = acidente, nao volitivo
+  -g = obrigação
+  -x = necessidade
+  -k = não se sabe/não se quer mostrar
+negação: -y
+imperativo: -i
+
+põe-se esses elementos concatenados em ordem ao conjugar:
+normal: tempo aspecto volição [negação]
+negação do infinitivo: negação somente
+imperativo: volição imperativo
+o [] indica opcionalidade
+a sua falta indica obrigatoriedade
+
+formas encurtadas do verbo ser pro passado e futuro:
+vtu = foi
+vta = será
+vtyy = não foi
+vtya = não será
+y = não é
+
+
+Os pronomes seriam:
+ma = "isso" pra objetos
+wok = eu
+hunk = tu
+ema = ele/ela
+nema = ela
+kema = ele
+demonstrativos:
+me = este
+be = aquele 
+A ordem é rigida e fixa, SOV, mas dá pra usar certas particulas pra alterar a ordem:
+ta = marca o sujeito
+ku = marca o objeto direto
+han = marca o objeto indireto
+sa = marca o meio, o instrumento
+vo = marca o lugar
+vom = marca o destino
+vok = marca a origem
+ni = marca a causa
+mu = marca o propósito
+so = marca algo que é contra
+tek = marca o alvo de comporação
+ogo = marca companheiro
+ko = marca posse
+xo = marca parte de algo
+taku = particula apassivadora
+pa = sobre (assunto)
+va = sobre (espaço fisico)
+sav = sob
+particulas extras (podem estar no começo de uma frase, ou logo após o verbo):
+ny = condicional (se)
+xe = potencial (poderia ocorrer?)
+ke = optativo (tem permissão?)
+lu = então
+
+pronomes interrogativos se formam muito com o campo vn (desconhecido):
+vun = o quê
+von = quem
+vena = como
+mavaon = onde
+
+conjunções:
+wa = ou
+ja = e
+plural é indicado de duas formas:
+1 (mais comum, ocorre muitas vezes): estendendo a primeira vogal da palavra (usa-se macron ou duplicação)
+2 (menos comuns, ocorre em casos de a palavra já começar com vogal longa, ou pra parecer mais elegante): adicionando sufixos. Pra palavras nativas, usa-se iin. Para palavras emprestadas, prefere-se o plural original delas.
+exemplos:
+tys = arma de corte
+tyys = armas de corte (mais informal)
+tysiin = armas de corte
+eensis = lamina (do latim)
+eensees = laminas (pega o plural do latim)
+femina = mulher (do latim femina)
+feminaj = mulheres (plural do latim feminae)
+
+
+algumas interjeições:
+Olá! = ume vot han (seguido de um gesto de oi)
+Oi! = vossan! (contração de ume vot han)
+Tudo bem? = vena tebutik? (como vai?)
+Tchau! = fug han! (ao sol!)
+Obrigado = hunk ko huum!
+
+algumas palavras:
+kyal = cabeça, instrumento organico de conhecer
+tyan = olho
+xyat = boca
+xutfok = barriga
+vyt = eu, de forma mais poética, o intrumento de ser
+sos = assassino
+ses = matar
+sejs = morrer
+maxoax = cama, quarto (lugar de dormir)
+kov = alma (o essencial)
+vep = falar, conversar
+gex = machucar
+gejx = sofrer
+tashan = manipulavel
+lev = dar, trocar
+lejv = receber
+seklev = negociar
+ovetovet = solidão
+exemplos:
+1, a famosa frase de hamlet:
+  "Vet wa vety, ma vupvun. meka ham vetatam,
+  wook ko kov ta nag mafaog vo kegutim ta?
+    wa tyys ku meglevutax goox
+ ko mavaol so, ja eeme sevutam,
+ sesutam?" ->
+(ser ou não ser, é a questão. Seria mais nobre nosso espírito em um destino pertubador sofrer?
+ou pegar armas contra um mar de problemas, e opondo-os, findando-os?)
+2, a frase de julio cesar:
+"tebetum. tenetum. tesetum."
+(fui/vim. vi. venci.)
+3, "vuun atap meka teputik"
+  (coisas improvavéis sempre acontecem)
+4. "hunk getutam, hunk wok ko diwinum intelektum hemutim ke?"
+  (Achas que podes rir do meu diwinum intelectum?)
+5. "ny ham vetak, wok xetatim."
+  (se der certo, vou comer)
+6. "Hunk vuty kelutupy, Meruem, Apav-xor ko Kih"
+  (Você não sabe nada mesmo, Meruem, Rei das Formigas)
+7. "Vossan, okun! ammm... luuu... wook sevutim?" (Eae amigo! Ummm, entaooooo... quer lutar?)
+   "FAAAAAAAAAAAAAAG!!!!!!!!!" (SIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIM!!!!!!)
+   "okē hehehehehev tebmi" (okay hehehehe venha!)
+8: "zu Majkel xat" (O Michel é comivel)
+9: 'hunk, fag, hunk, hunk zu gux teputik ke?' (Você, sim, você, você pode resolver o problema?)
+9: "vu Kafe wok han, hunk ko mug sa" (adaptação de por favor)
+  (Um café pra mim, por favor)
+10: "Wok iteputig ._. wok luv sekutapy" (eu tenho que trabalhar ._. não tenho dinheiro)
+11: "Hunk vena?" (como você está?)
+12: "Hunk vun vo?" (você tá aonde)
+13: "Wok ovelxut kenutam" (Eu gosto de Peixe)
+15: WOK OFAGET Y, OKĒ?! DETRES-DO TESA!!! (Eu não sou coroa ta bom?!? eu só tenho 32 anos!)
+16: hunk ofaget meka (é um baita dum coroa)
+17: wok ko lavety ta ipa

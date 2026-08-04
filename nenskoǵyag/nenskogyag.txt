@@ -1,0 +1,120 @@
+Nenskoǵyag
+Lingua meio neutra (mas nao)
+Fonologia (41 sons)
+Plosivas (12): p, t, k, g, t, d + versões aspiradas
+vogais (11): a, e, i, o, u, ə + versões longas das cinco primeiras
+fricativas (12): s, f, v, ʒ, ʃ, ç, h, x, ɣ, β, θ, ð
+liquidas (2): l, r/ɾ
+nasais (2): m, n
+aproximantes (2): w, j
+romanização:
+p = p
+t = t
+k = k
+g = g
+d = d
+b = b
+(consoante)h = (consoante)ʰ
+a = a
+e = e
+i = i
+o = o
+u = u
+ɛ = ə
+(vogal)(vogal) = (vogal)ː
+y = j
+w = w
+s = s
+f, ṕ = f
+v = v
+h = h
+m = m
+n = n
+l = l
+r = r
+θ = ʃ
+j = ʒ
+c = ç
+ḱ = x
+ǵ = ɣ
+b́ = β
+t́ = θ
+d́ = ð
+
+A lingua se apoia muito em sufixos pra especificar funções, tempo/aspecto e modo. Nós temos entao:
+Tempos:
+  -do: presente simples (indica uma ação feita, nao necessariamemte agora)
+  -vo (forma amtiga -bdo): presente perfeito (indica que a ação é feita exatamemte agora)
+  -pa: passado simples (imdica que foi feito, com possível continuidade)
+  -ta (forma antiga -tpa): passado perfeito (indica que a ação realmemte ocorreu mo passado, nao ocorre mais)
+  -bi (forma antiga -vil): futuro simples (indica que uma ação correrá, sem tanta certeza)
+  -vi (forma antiga -vil): futuro perfeito (vai ocorrer no futuro, é certo disso)
+modos:
+  -yo: imperativo
+  -ka: intwrrogativo
+  (nada): indicativo/declarativo
+negação: -ne
+casos nominais:
+-ha: nominativo (indica quem faz algo)
+-ho: acusativo (indica quem recebe diretamente)
+-he: topicativo (indica o assunto)
+-sor: dativo (indica o alvo da ação)
+-de: genitivo (indica o dono de algo)
+-km ou -ma: cobre locativo, instrumemtal e comitativo
+-kmi ou -mei: locativo (indica o local de algo)
+-kmu ou -mu: instrumental (indica o instrumento)
+-kmi ou -mi: comitativo (indica com quem se está)
+-kma ou -mak: origem, ablativo (indica que algo veio de tal)
+casos adjetivais:
+-o: nominativo
+-a: topicativo
+-u: acusativo
+-co: dativo
+-tɛ: genitivo
+-mɛ: ablativo (sera chamado assim, mas cobre todas as variações do -km)
+outros:
+quantifcador: -no (indica a quantidade de algo, com numeros ou adjetivos)
+adverbilizador: -du (forma antiga -mo, ancestral -odo)
+plural: -y
+agora, a gramatica:
+a ordem preferida é SOV, mas é livre graças ao sistema de casos.
+Para organizar frases simples, usamos uma estrutura topico-predicado,
+onde o predicado pode ser nominativo (indicando identidade)
+ou outros casos, além de adjetivos.
+Para descrever uma ação verbal, usamos a estrutura sujeito-predicado. Usa-se nominativo + objetos + verbo.
+Em casos que o contexto deixa claro o sujeito, pode se omitir.
+
+pronomes:
+ekh = eu
+tzu = tu
+hul = ele/ela/isso
+kahul = ela
+kohul = ele
+kihul = isso
+sot* = aquilo
+kot* = isso também, mas no sentido de "este/esse".
+*: sao pronomes demonstrativos também, se colam no substamtivo
+
+particulas:
+que = dee
+então = yonu
+embora/portanto = toθin
+mas = taθin
+se = ḱuḱ
+por quê (de causa) = dahan
+como, que nem = kinjɛ
+para = yuhu
+então (como em "então, faça isso") = am
+etc/outros = wogna/weugna (a primeira forma é mais moderna, a outra mais arcaica)
+outro = goko
+e = pec
+ou = huṕ
+
+Exemplos:
+Ekh-he Jown-ha psee-do (Eu sou João)
+Hul-ha hemda-ho hem-do (Ele/ela come a comida)
+Yoo-bi jin-do... taθin klaaj-do-ne (eu/ele/ela poderia ajudar, mas não quero/quer)
+Tzu-he nenensko-a psee-do (você é feio)
+Ekh-he nensko-a psee-do (eu sou bonito)
+Ekh-ha ricin-u phap-ho cin-ta (eu matei a pessoa espiritual)
+Ekh-ha tzu-ho yahan-vi (eu vou lhe engravidar)

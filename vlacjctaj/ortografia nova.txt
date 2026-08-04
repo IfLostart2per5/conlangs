@@ -1,0 +1,225 @@
+Vlacjctaj, aquilo que é falado por muitos
+
+
+sons:
+vogais: a = a, e = e, i = i, o = o, u = u, â = ɐ/ʌ, ú = ɨ, ö = ø, û = ɯ
+consoantes: p, t, k, b, d, g, j, c = s, s = z, v, f, l, r, n, m, kh = x, ng = ŋ, pj, tj, kj, bj, dj, gj, cj, sj, vj, fj, lj = ʎ, nj = ɲ, khj = ç, w, z (som de ts)
+
+kokn = comer
+kokt = comi
+koktaj = comemos (passado)
+kokc = comerei/como
+kokcaj = comeremos/comemos (presente)
+kakt = comeste
+kaktaj = comestes
+kakc = comerás/comes
+kakcaj = comereis/comeis (ou vocês comerão/comem, mas vou usar o vós por que é mais curto de digitar)
+kikt = comeu
+kiktaj = comeram
+kikc = comerá/come
+kikcaj = comerão/comem
+kakaft = coma!
+kakajaft! = comai!
+
+gen = desejar/querer
+get = desejei
+getaj = desejamos
+gec = desejarei/desejo
+gecaj = desejaremos/desejamos (presente)
+gat = desejaste
+gataj = desejastes
+gac = desejarás/desejas
+gacaj = desejarais/desejais
+got = desejou
+gotaj = desejeram
+gocaj = desejarão/desejam
+gacaft = deseja!
+gacajaft = desejai!
+
+vlacjn = falar
+vlacjt = falei
+vlacjc = falarei/falo
+vlacjtaj = falamos
+vlacjcaj = falaremos/falamos
+vlúcjt = falaste
+vlúcjc = falarás/falas
+vlúcjtaj = falastes
+vlúcjcaj = falarais/falais
+vlâcjt = falou
+vlâcjc = falará/fala
+vlâcjtaj = falaram
+vlâcjcaj = falarão/falam
+vlùcjaft = fala!
+vlùcjajaft! = falai!
+
+-aj = pessoa plural
+-n = forma base
+-t = passado
+-c = não-passado
+(vogal 2 pessoa) + -aft = imperativo
+-ct = participio
+-ctaj = participio plural
+-pc = adverbializador
+-ka = capacidade
+-maf = aquele qiue
+conjugação pra pessoa:
+as vogais são alteradas seguindo certos padroes, para ter formas diferentes pra primeira, segunda e terceira pessoa
+quando a vogal da raiz é u: u = 1, â = 2, ú = 3
+quando é e: e = 1, a = 2, o = 3
+quando é o: o = 1, a = 2, i = 3
+quando é a: a = 1, ú = 2, â = 3
+verbos depois das regras: 
+gup- = bebo
+gâp- = bebes
+gúp- = bebe
+
+tracj- = chego
+trùcj- = chegas
+trâcj- = chega
+
+gnel- = vejo
+gnal- = vês
+gnol- = vê
+
+khcaj- = mato
+khcúi- = matas
+khcâj- = mata
+
+khoktaj = morro
+khoktúi = morres
+khoktâj = morre
+
+kcjnak- = tenho poder sobre
+kcjnúk- = tens poder sobre
+kcjnâk- = tem poder sobre
+
+plom- = pego/tenho
+plam- = pegas/tens
+plim- = tem/pega
+
+ra- = sinto
+rú- = sentes
+râ- = sente
+
+en = ser
+et = fui
+etaj = fomos
+ec = serei/sou
+ecaj = seremos/somos
+at = foste
+ataj = fostes
+ac = serás/és
+acaj = sereis/sois
+ot = foi
+otaj = foram
+oc = será/é
+ocaj = serão/são
+
+ci = futuro
+mak = passado perfeito
+nja = negação
+
+ang = bom
+walne = sozinho
+
+wo = eu
+ú = me (aqui soa que nem a vogal ы do russo)
+we = meu
+
+waj = nós
+wâj = nos
+wej = nosso
+
+ant = tu
+unt = te
+ont = teu
+
+ontj = vós
+ûntj = vos
+antj = vosso
+a
+edj = isso
+ödj = isso (objeto)
+údj = de isso
+
+edi = esses
+ödi = esses (objeto)
+udi = desses
+
+akht = maçã
+ukhten = maçã (objeto)
+okhtac = da maçã
+
+okht = maçãs
+ûkhten = maçãs (objeto)
+ekhtac = das maçãs
+
+founa = celular
+founun = celular (objeto)
+founoc = do celular
+
+founo = celulares
+founûn = celulares (objeto)
+founec = dos celulares
+
+nga = quem
+ngoc = de quem
+ngun = quem (objeto)
+
+ngo = quais
+ngec = dos quais
+ngûn = quais (objeto)
+
+ngi = qual/que
+ngún = qual (objeto)
+ngâc = de que
+
+len = ele
+lönun = ele (objeto)
+lunoc = dele
+
+lenj = eles
+lönjun = eles (objeto)
+lunjoc = deles
+
+lecj = ela
+löcjun = ela (objeto)
+lucjoc = dela
+
+lakhj = elas
+lekhjun = elas (objeto)
+lûkhjoc = delas
+
+v = conjunção
+cjaj = disjunção
+
+ladj = depois
+
+preposições:
+c/s = em
+ot = a
+ma = com (companheiro)
+ce = com (instrumento)
+
+wo kokc ukhten = eu como maçã
+ukhten kokc wo (maçã como eu)
+wo unt gec (eu quero você)
+ant ù gac (você me quer)
+wo ec wo! (eu sou eu)
+we founa oc ang (Meu celular é bom)
+ant.. ant... kakt we founun ungen?! (Tu... tu... comeste meu celular bom??)
+wo ungen gupcten gupt (eu bebi uma bebida boa)
+ang gapct ú gúpt (uma bebida boa me bebeu)
+wo ci kokc ukhten (eu vou comer uma maçã)
+ant ac nga? (tu és quem?)
+nga ac ant (quem és tu?)
+ngoc founun oc? (o celular é de quem?)
+wo vlasjs unt, ant nja as edj (eu tô te falando, você não é isso!)
+NJA KAKAFT! (NÃO COMA!)
+ladj nja vlùcjaft wo vlacjt nja (depois não diga que eu não avisei)
+gac ödj, cjaj ukhten (você quer isso, ou uma maçã?)
+Tracjt. Gnelt. Khcajt (Vim. Vi. Venci) (infelizmente n fica com a mesma rima T-T)
+
+Wo, walnepc, nja plomt badun, runkan, rûcten. Wo et c khelun, gnels hevenun (Eu, sozinho, não tive corpo, não tive sentidos, não tive sentimentos! Eu estava no inferno, olhando pro céu)
+wo ec ma lucjoc (Eu estou com ela)
+Â???? ANT... MA LUCJOC... KAKT???? EDJ ET ANG!!!!! (AHN? VOCÊ... COMEU... COM ELA? ISSO FOI BOM!)

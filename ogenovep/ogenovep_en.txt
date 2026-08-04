@@ -1,0 +1,209 @@
+Ogen-ovep Language
+Based on biconsonantal roots and particles
+
+sounds (30):
+vowels (12): a, e, i, o, u, ü (sound [y]) + their long versions
+consonants (18):
+  plosives (6): k, t, p, b, g, d
+  fricatives (6): h, s, z, x, v, f
+  nasals (2): n, m
+  liquids (2): l, r
+  approximants (2): j, w
+THERE NO DIGRAPHS. so sequences like "sh" are [sh], not [ʃ].
+phonotactics: (C)(C)V(V)(C)
+
+molds:
+agent: C₁oC₂
+concept: oC₁eC₂
+instrument: C₁üC₂
+organ: C₁üaC₂
+active verb (you do this action to someone): C₁eC₂
+passive verb (someone do this action to you): C₁eiC₂
+participle verb (adjective form that indicates that the object did such an action): C₁aC₂et
+profission: C₁iC₂
+object: C₁uC₂
+place: maC₁aoC₂
+adjective: C₁aC₂
+intensifier: i + molde
+absolute intensifier: u + molde
+weakener: a + molde
+antonim: molde + as
+belief: guC₁oC₂
+adverb: C₁eC₂a
+number: meC₁aC₂
+feelings: zeC₂aC₁
+
+the numberw:
+zero: memag
+one: mevat
+two: mehan
+three: metas
+four: metar
+five: metap
+six: mezan
+seven: mefag
+eight: melav
+nine: amebav
+ten: mekav
+humdred: memak
+thousand: imemak
+how to form numbees:
+11-20: mekav (10) + number
+20-99: number + mekav (10) ou 1st number + 2nd number
+100-999: me (reduced form of memak) + number
+1000 a 999999: ime + thousand number + number
+millions, trillions etc.: ume + number + other numbers
+exemples:
+249 = memehan metar amebav
+11 = mekav mevat
+2025 = imemehan mehan metap
+1 000 009 = umemevat amebav
+1 200 000 = umemevat imemehan
+60 000 = ime mezan mekav
+300 000 = ime memetas
+100 000 = me memak
+38 040 000 = ume metas-melav ja metar mekav
+
+
+
+articles (optional, useful for clarity):
+definite: zu (from the first consonant of zn, sensation)
+indefinite: vu (from the first consonant of vn, unknowm)
+
+verb endings:
+tense:
+  -et = past
+  -ut = present
+  -at = future
+aspect:
+  -i = not initiated
+  -a = initiated
+  -u = done
+volition:
+  -m = desire, volitive
+  -p = acident, non-volitive
+  -g = obligation
+  -x = needing
+  -k = ocult (it dont know/it dont want to show)
+negation: -ü
+imperative: -i
+
+Put these elements in order to conjugate:
+normal: tense aspect volition [negation]
+infinitive negation: negation only
+imperative: volition imperative
+[] indicates optionality
+nothing indicates obligatority
+
+short forms of the verb "to be" for past and future:
+vetuk = foi
+vetik = será
+
+the pronouns are:
+ma = pronouns base, alone it means "this" for objects
+ama = I
+uma = you
+ema = he/she
+nema = she
+kema = he
+āma = we
+ūma = you (plural)
+ēma = they
+nēma = they (women)
+kēma = they (men)
+
+demonstratives:
+me = this
+be = that
+
+The order is rigidly SOV, but you can use certain particles to change it:
+ta = marks the subject (who does)
+ku = marks the direct object
+han = marks the indirect object
+sa = marks the instrument
+vo = marks the place
+vom = marks the destiny
+ni = marks the cause
+mu = marks the purpose
+so = against
+tek = than
+ogo = similar to with
+ko = marks possession
+xo = marks a part of somethimg
+extra particles ():
+nü = condicional (se)
+xe = potencial (poderia ocorrer?)
+ke = optativo (tem permissão?)
+lu = então
+
+pronomes interrogativos se formam muito com o campo vn (desconhecido):
+vun = o quê
+von = quem
+vena = como
+mavaon = onde
+
+conjunções:
+wa = ou
+ja = e
+plural é indicado estendendo a primeira vogal da palavra (usa-se macron)
+
+algumas interjeições:
+Olá! = ume vot han (seguido de um gesto de oi)
+Oi! = votsan! (contração de ume vot han)
+Tudo bem? = vena tebutik? (como vai?)
+Tchau! = fug han! (ao sol!)
+
+algumas palavras:
+küal = cabeça, instrumento organico de pensar
+tüan = olho
+xüat = boca
+xutfok = barriga
+vüt = eu, de forma mais poética, o intrumento de ser
+sos = assassino
+ses = matar
+seis = morrer
+maxoax = cama, quarto (lugar de dormir)
+kov = alma (o essencial)
+vep = falar, conversar
+gex = machucar
+geix = sofrer
+tashan = manipulavel
+lev = dar, trocar
+leiv = receber
+seklev = negociar
+ovetovet = solidão
+exemplos:
+1, a famosa frase de hamlet:
+  "Vet wa vetü, ma vupvun. meka ham vetatam,
+  āma ko vut ta nag mafaog vo kegutim?
+    wa tǖs ku meglevutax kōg
+ ko mavaol so, ja ēme sevutam mu,
+ sesutim?" ->
+(ser ou não ser, é a questão. Seria mais nobre nosso espírito em um destino pertubador sofrer?
+ou pegar armas contra um mar de problemas, e opondo-os, findando-os?)
+2, a frase de julio cesar:
+"tebetum. tenetum. tesetum."
+(fui/vim. vi. venci.)
+3, "vūn atap meka teputik"
+  (coisas improvavéis sempre acontecem)
+4. "uma getutam, uma amas diwinum intelektum hemutim ke?"
+  (Achas que pode rir do meu diwinum intelectum?)
+5. "nü ham vetatim, ama xetatim."
+  (se der certo, eu como/vou comer)
+6. "Uma votü kelutipü, Meruem, Apav-xor ko Kih"
+  (Você não sabe nada mesmo, Meruem, Rei das Formigas)
+7. "Votsan, okun! ammm... luuu... āma sevutim?" (Eae amigo! Ummm, entaooooo... quer lutar?)
+   "FAAAAAAAAAAAAAAG!!!!!!!!!" (SIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIM!!!!!!)
+   "okē hehehehehev tebmj" (okay hehehehe venha!)
+8: "zu Majkel xat" (O Michel é comivel)
+uma, fag, uma, uma zu gux teputik ke? (Você, sim, você, você pode resolver o problema?)
+9: "vu Kafe ama han, uma ko mug sa" (adaptação de por favor)
+  (Um café pra mim, por favor)
+10: "Ama iteputig ._. ama luv sekutapü" (eu tenho que trabalhar ._. não temho dinheiro)
+11: "Uma vena?" (como você está?)
+12: "Uma ta vun vo?" (você tá aonde)
+13: "Ama ovelxut kenutam" (Eu gosto de Peixe)
+14: "Hej! nema ku tenmi! nema xat 🔥" (melhor nao traduzir rs)
+15: AMA OFAGET VETUTÜ, OKĒ?! METAS MEHAN TESA!!! (Eu não sou coroa ta bom?!? eu só tenho 32 anos!)
+16: um' ofaget meka (é um baita dum coroa)
+17: 

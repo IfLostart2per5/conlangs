@@ -1,0 +1,158 @@
+latim v2 - uma lingua criada no tédio
+
+pronomes:
+ehgo = eu
+me = me/mim
+tus = tu
+te = te/ti
+mnohs = nós
+mnos = nos (objeto)
+uohs = vós
+uos = vos (objeto)
+meh = meu/minha (masculino)
+mehr = meu/minha (feminino)
+teh = teu/tua (masculino)
+tehr = teu/tua (feminino)
+nostrum = nosso/nossa (masculino)
+nostra = nosso/nossa (feminino) (sim, nao usa mn-)
+uostrum = vosso/vossa (masculino)
+uostra = vosso/vossa (feminino)
+
+hoc- = isso/esse/essa (hocus, hoca, hoci, hocae...)
+ill- = aquele/aquela (illus, illa, illi, illae)
+
+
+ordem das coisas nessa seção: (nom./obl./gen.)
+generos: masculino (-us/-um/-eh) e feminino (-a/-am/-ehr)
+plural: masculino (-i/-os/-(e)rum) e feminino (-ae/-as/-(e)ra)
+
+
+casos:
+nominativo = sujeito
+obliquo = objeto (direto e indireto)
+genitivo = posse
+
+
+conjugação basica:
+-oh = ehgo bepoh aquam (eu bebo água)
+-es = tus bepes aquam (tu bebes água)
+-et = illus bepet aquam (ele bebe água)
+-emuhs = mnohs bepemuhs aquam (nós bebemos água)
+-eis = uohs bepeis aquam (vós bebeis água)
+-uhnt = illi bepunt aquam (eles bebem água)
+-ih = ehgo bepih aquam (eu bebi agua)
+-isti = tus bepisti aquam (tu bebeste água)
+-ut = illa beput aquam (ela bebeu água)
+-imus = mnohs bepimus aquam (nós bebemos água)
+-istis = uohs bepistis aquam (vós bebestes água)
+-ent = illae bepent aquam (elas beberam água)
+
+casos especiais pro verbo esse (pq ele é especial):
+est = é
+es = és
+soh = sou
+semuhs = somos
+seis = sois
+suhnt = são
+
+
+notas:
+1. verbos só terminam em ehre. Só.
+2. h em fim de silaba marca vogal longa. Em inicio representa o som de "h" mesmo (fricativa glotal).
+3. consoantes sao geminadas, assim como no latim clássico.
+4. preposições vêm do latim clássico.
+5 (IMPORTANTE). o sistema de pronomes possessivos aqui trata os pronomes como substantivos "comuns", ou seja,
+eles nao concordam com o objeto possuido, concordam COM O POSSUIDOR. Ex. Panus teh e pani teh são válidos.
+Estranho seria falares "pani teh" com uma mulher, ou "pani tehr" com um homem.
+6. Esse sistema faz adaptações grosseiras nas palavras pra caberem no sistema de casos (forçando terminações). Em poucos casos isso não acontece.
+
+palavras:
+comehre = comer
+futuehre = fuder
+bepehre = beber
+habehre = haver
+aqua = agua
+uidehre = ver
+sentehre = sentir
+cogitehre = pensar
+pahnus = pão
+quomo = como
+ple = também
+(o resto vem do latim clássico ou adaptado)
+
+sih = fui
+sissi = foste
+sut = foi
+semus = fomos
+sistis = fostes
+sent = foram
+
+futuro é basicamente "habehre conjugado + verbo no infinitivo/normal"
+passivo é expresso com verbo conjugado + -tur
+pequeno dialogo:
+Marcus: sahlue! (olá!)
+Myria: sahlue! (olá!)
+Marcus: quomo es? (como estás?)
+Myria: behne, et tus? (bem, e tu?)
+Marcus: behne ple. Quidum ficisti hohdie? (Bem também. Fizeste o que hoje?)
+Myria: ficih panum! Aut melie, panum et uihnum. Hodie est Pascha! (Pão! Ou melhor, pão e vinho! Hoje é Páscoa!)
+Marcus: oh, uerus est! Aexpecte.... NOHN HABEOH OUUM AD TE! hocus bonus non sut!! (ah, é verdade! Pera.... EU NÃO TENHO OVO PRA TI! Isto não é bom)
+Myria: calme, calme! Hocus nohn est "magnus" quomo cogites. hahahaha. Dius Paschehr est leuus, nohn pesatus.  (Acalma acalma! Isso não é "grande" como tu pensas kkkk O dia da Páscoa é leve, não pesado.)
+Marcus: mmmm, uerus, tus es recta. Bene, scioh locum optimum cui uendet ouos Paschehr (hmmm, verdade, tu estás certas. Bem, eu sei um ótimo lugar que vende ovos de Páscoa)
+Myria: Optime! habemuhs emehre multos ouos! (Ótimo! Vamos comprar muitos ovos!)
+Marcus: *post aliquidi minuti* hic semuhs! in Cacaom Soum! (*após alguns minutos* aqui estamos! Na Cacau Soú!) (latim não tem sh, entao aqui faz sentido ele tentar ler como s)
+Myria: hocus est scriptus in Angliscam! Lege quomo "Cacao Shou" (Isso tá escrito em Inglês! Leia como "Cacau Xou")
+Marcus: nohn scioh angliscam! Anglisca est multe difficla! (eu não sei inglês! Inglês é muito difícil!)
+Myria: modo ad te, nohn est? hahahaha (só pra ti, né?kkkkkk)
+Myria: HEHH, IOHANA! (EEEI JOANA!)
+Iohana: sahlue, hic soh!! Quidum uoleis? (olá, tô aqui! O que quereis?)
+Myria: sahlue! Deh meeee... duos panos, illeh typeh, et... (olá! Me dá.... dois pães, daquele tipo, e....)
+Iohana: Ouum Iohanehr? (O Ovo da Joana?)
+Myria: ITA, HOCUS! (SIM, ISSO!)
+Iohana: bene. Aexpectei in mesam I. habeoh facehre ouos. (Okay. Esperai na mesa 1. Vou fazer os ovos)
+Myria: bene (tudo bem)
+Marcus: mmm, illa iam cognoscet te? (hmmm, ela já te conhece?)
+Myria: ita. Pani et oui illehr suhnt melih hic! Habes uidehre! (Sim. Os pães e ovos dela são os melhores daqui! Tu verás!) (melii (melhores) é simplificado pra melih aqui)
+Marcus: ocei (okay)
+Marcus: mmmmm... habes pecuniam? (humm... tens dinheiro?)
+*expressia Myriehr gelut* (a expressão de Míria congela)
+Myria: pe... cu... nia? (din...nhei... ro?)
+Marcus: tus nohn habes, nohn est? (tu não tens né)
+Myria: nohn, habeoh ita.... e-ehgo pecuniae habeoh! (não, eu tenho sim... eu tenho dinheiros!)
+Marcus: HAHAHAHAHAHA ETIAM LINGUAM TUS DEHS IN DESPERATIUM HAHAHAHA EST PECUNIAM, NON PECUNIAE (KKKKKKKKK ATÉ A LÍNGUA TU ERRAS EM DESESPERO KKKKKKKKK É DINHEIRO, NÃO DINHEIROS) (a tradução não é exata aqui, pecuniae e pecuniam diferem alem do numero, em caso)
+Myria: pecuniam* et... NOHN FABLE NIHILUM! TUS ES PAUPRUS PLE! (dinheiro* e... NÃO FALA NADA! TU ÉS POBRE TAMBÉM!)
+Marcus: stulta -_- (tola -_-)
+Myria: MATRA TEH! (A TUA MÃE!)
+Marcus: QUIDUS? HABES OFENDEHRE MATRAM MEH NUNC???? (QUê?? VAIS OFENDER A MINHA MÃE AGORA?????)
+Myria: ITA, ILLA UACCA! (SIM, AQUELA VACA!)
+Marcus: NOHN ES SIMILA FEMINEHR NUNC! (TU NEM PARECES UMA MULHER AGORA!)
+Myria: NE TUS UIREH SIMILUS ES! (NEM TU UM HOMEM!)
+Eccus Uirus (homem aleatório): et simili homerum nohn seis -_- (e vós não paraceis humanos -_-)
+Myria et Marcus: ... a
+*omni calmuhntur* (tudo se acalma)
+Marcus: Deus Meus... tus es taaaaam pulchra.. (Meu Deus... tu és tão bonita...)
+Myria: a hehe gratias tibi... tus ple (a hehe... obrigada... tu também)
+Marcus: ...
+*Ardor nascet inter hocos, quomo fortia peccatae!* (um climão nasce entre os dois, como a força do pecado!)
+Myria: ah 
+Marcus et Myria: habemuhs f****ehre? (vamos d** uma?)
+*dui cogitunt "quidus???". Et.... poste.... illi hocum ficiunt* (*os dois pensam *que???"... e... depois... fazem isso.*)
+Finalus (fim)
+
+
+exemplos demonstrando casos:
+exemplo 1: "
+Iohana est femina pulchra
+Omni homi uoluhnt Iohanam
+Taberna Iohanehr est bona
+Sed, Taberna Iohanehr dependetiam Cuinteh habet
+Cuintus est magnus productrus Coceh
+Cocus illeh est multus bonus
+Omni homi uoluhnt cognoscehre Cuintum
+"
+
+exemplo 2: "
+Cur uohs mnos uoleis ferehre ?? cur uoleis mnos ferehre???
+Mnohs nohn uolemuhs uos ferehre.
+A, scioh iam! Possemus protectehre basium uostrum, si mnos fidemuhs. Quidum cogiteis?
+"

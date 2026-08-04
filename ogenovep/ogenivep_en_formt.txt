@@ -1,0 +1,385 @@
+Ogen-ovep Language Overview
+
+This conlang is based on biconsonantal roots.
+
+Phonology (30 sounds)
+
+Vowels (12): a, e, i, o, u, ü ([y]) + long versions
+Consonants (18):
+
+Plosives (6): k, t, p, b, g, d
+
+Fricatives (6): h, s, z, x, v, f
+
+Nasals (2): n, m
+
+Liquids (2): l, r
+
+Approximants (2): j, w
+
+
+👉 No digraphs. For example, "sh" = s + h, not a single "sh".
+👉 Phonotactics: (C)(C)V(V)(C)
+
+
+---
+
+Morphological Templates  
+
+Agent: C₁oC₂  
+
+Concept: oC₁eC₂  
+
+Instrument: C₁üC₂  
+
+Organic instrument: C₁üaC₂  
+
+Active verb: C₁eC₂  
+
+Passive verb: C₁eiC₂  
+
+Active Participle (adj.): C₁aC₂et  
+
+Passive Participle (adj.): C₁aiC₂et   
+
+Profession: C₁iC₂  
+
+Object: C₁uC₂  
+
+Place: maC₁aoC₂  
+
+Adjective: C₁aC₂  
+
+Intensifier: i + template  
+
+Absolute intensifier: u + template  
+
+Weakener: a + template  
+
+Antonym: template + as  
+
+Belief: guC₁oC₂  
+
+Adverb: C₁eC₂a  
+
+Number: meC₁aC₂  
+
+Feeling: zeC₂aC₁  
+
+
+
+---
+
+Numerals
+
+0: memag
+
+1: mevat
+
+2: mehan
+
+3: metas
+
+4: metar
+
+5: metap
+
+6: mezan
+
+7: mefag
+
+8: melav
+
+9: amebav
+
+10: mekav
+
+100: memak
+
+1000: imemak
+
+
+Number formation:
+
+11–20: mekav + number
+
+20–99: number + mekav, or number₁ + number₂
+
+100–999: me (short for memal) + number
+
+1000–999,999: ime + number + centema-number
+
+Millions/trillions: ume + number + higher unit
+
+
+Examples:
+
+249 = memehan metar amebav
+
+11 = mekav mevat
+
+2025 = imemehan mehan metap
+
+1,000,009 = umemevat amebav
+
+
+
+---
+
+Articles (optional, used for clarity)
+
+Definite: zu (from zn, "sensation")
+
+Indefinite: vu (from vn, "unknown")
+
+
+👉 No gender/number inflection.
+
+
+---
+
+Verbal Endings
+
+Tense:
+
+-et = past
+
+-ut = present
+
+-at = future
+
+
+Aspect:
+
+-i = not started
+
+-a = started
+
+-u = completed
+
+
+Volition:
+
+-m = desire
+
+-p = accident / non-volitional
+
+-g = obligation
+
+-x = necessity
+
+-k = unknown/hidden
+
+
+Other:
+
+Negation: -ü
+
+Imperative: -i
+
+
+Order when conjugating:
+tense + aspect + volition [+ negation]
+Imperative: volition + -i
+
+Special forms of to be:
+
+vetuk = was
+
+vetik = will be
+
+
+
+---
+
+Pronouns
+
+ma = pronoun base (alone = "that" for objects)
+
+ama = I
+
+uma = you
+
+ema = he/she
+
+nema = she
+
+kema = he
+
+
+Demonstratives:
+
+me = this
+
+be = that
+
+
+
+---
+
+Syntax
+
+Default order: SOV (rigid), but case particles allow flexibility:
+
+ta = subject
+
+ku = direct object
+
+han = indirect object
+
+sa = instrument
+
+vo = location
+
+vom = destination
+
+ni = cause
+
+so = against
+
+tek = comparison target
+
+ogo = companion
+
+ko = possession
+
+xo = part of something
+
+
+Extra particles (sentence-initial or after verb):
+
+nü = conditional (if)
+
+xe = potential (might)
+
+ke = optative (may)
+
+lu = then
+
+
+
+---
+
+Interrogatives (mostly from vn, "unknown")
+
+vun = what
+
+von = who
+
+vena = how
+
+mavaon = where
+
+
+
+---
+
+Conjunctions
+
+wa = or
+
+ja = and
+
+
+👉 Plural: lengthen the first vowel of the word (macron).
+
+
+---
+
+Interjections
+
+Hello! = ume vot han (+ waving gesture)
+
+Hi! = votsan! (contraction of above)
+
+How are you? = vena tebutik?
+
+Bye! = fug han! (“towards the sun!”)
+
+
+
+---
+
+Sample Vocabulary
+
+küal = head (thinking organ)
+
+tüan = eye
+
+xüat = mouth
+
+xutfok = belly
+
+vüt = poetic “I”, instrument of being
+
+sos = assassin
+
+ses = to kill
+
+seis = to die
+
+maxoax = bed, room (sleeping place)
+
+kov = soul, essence
+
+vep = to speak, converse
+
+gex = to hurt
+
+geix = to suffer
+
+tashan = manipulable
+
+lev = to give, trade
+
+leiv = to receive
+
+seklev = to negotiate
+
+ovetovet = solitude
+
+
+
+---
+
+Example Sentences
+
+1. Hamlet (To be or not to be):
+
+
+
+> Vet wa vetü, ma vupvun. meka ham vetatam,
+āma ko vut ta nag mafaog vo kegutim?
+wa tǖs ku meglevutax kōg ko mavaol so, ja ēme sevutam mu,
+sesutim?
+
+
+
+2. Julius Caesar:
+
+
+
+> tebetum. tenetum. tesetum.
+("I came. I saw. I conquered.")
+
+
+
+3. vūn atap meka teputik
+("Unlikely things always happen.")
+
+
+4. uma getutam, uma amas diwinum intelektum hemutim ke?
+("Do you think you can laugh at my divine intellect?")
+
+
+5. nü ham vetatim, ama xetatim.
+("If it works, I’ll eat.")
+
+
+6. Uma votü kelutipü, Meruem, Apav-xor ko Kih
+("You know nothing, Meruem, King of Ants.")
+
+
+
+
+---

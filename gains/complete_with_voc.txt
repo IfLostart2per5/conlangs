@@ -1,0 +1,160 @@
+# Gains
+Hello! Welcome to the blazening fast guide to learn Gains, a simple and logic language.
+It's not very didatic, as you'll need to know IPA (International Phonetic Alphabet), and know some grammar things.
+Well, good reading!
+## 1. Phonology and orthography
+format: sound = letter
+h = h
+u = u
+ɣ = ǵ
+t = t
+i = i
+ɛ and e = e
+x and χ = x
+l and ɫ = l
+m = m
+y = ü
+a = a
+f = f
+j = ǐ
+s = s
+g = g
+e = e
+n = n
+k = k
+p = p
+ʌ = û
+r and ɾ = r
+v = v
+w = ǔ
+ʃ = ś
+long vowels are got with ¯.
+
+There are no digraphs.
+
+## 2. Grammar
+### 2.1. Words
+Here we'll describe the morphology of the words
+#### 2.1.1. Cases
+-s (from si): nominative, it shows who does what;
+-f (from fe): accusative, who gets directly the action
+-i (from inso) or -g (after ī): dative, shows the target of an action
+-k (from kria): genitive, we restrict something that is ours
+-p: locative (from pul), where something occurs
+-m: instrumental (from mok), what is used to do something
+#### 2.1.2. Plural
+use -ǐ for plural after consonants, or -oǐ after consonants (the idea to separate vowel and consonant is inspired on tenksz, from Seatlll8292 in r/conlangs, and the "-j" idea came from Esperanto)
+### Verbs
+now, we'll describe how to conjugate verbs
+#### 2.1.3. Tenses
+for indicate tense, where in time action is located, we use:
+- -t for past  
+- -o for present  
+- -i for future  
+Gains doesn't have aspect (like "I have eaten" vs "I ate" and "I eat" vs "I am eating").
+#### 2.1.4. Volition
+We need to specify **our intention** on the verbs — that's called volition:
+-a: desire
+(nothing): habit/instinct
+-e: for needing/forcing
+-ü: accident
+### 2.2. Some extra details
+There is no "to be" verb, so, you just do "word word" or "word adjective" for example.
+#### 2.2.1 Pragmatic
+We use elements order to indicate phrase type. First, let's define some elements, using the case suffixes:  
+S (Subject) = S (nominative)
+O (Objects) = K*PFIM (genitive, locative, accusative, dative, instrumental)
+V (Verb) = Verb
+Note: K* indicates that can appear in any position.
+Note 2: That's flexible, with restrictions only for making questions and affirmations
+Now, we can indicate how to ask and how to affirm.
+   1. SOV = affirmation  
+   2. OVS = questions  
+## 3. Examples
+Let's see various examples:
+tis huk! (It's mine!!)
+χotinf umaf! (The food is good!)
+xotinf kûgf! (The food is terrible!)
+hus mei sioa (I do it for you)
+hus χotinf fetü (I've got food)
+hus krap ǵaf pult! (I've seen she/he in forest!)
+tif ǐumoa mes? (do you want it?)
+hus ǔafrikoǐf umāǐoa (I like the people)
+hus ifīp tif sioe (I do it tomorrow)
+hus mef ümaoa, ǐa ĝaf ǖmaoa (I want to hurt you, and have sex with they)
+hus huf hui huk xotoa (I eat myself with my me)
+ǔafrikoǐs kûgs (people are bad)
+kûgs ǔafrikojs (bad people)
+hus alexandrof ka umājoü (I don't like Alejandro)
+"ga"s "speak"s, "in"s "thing"s, ja "s"s "nominative"s,
+lux "gains"s Engliśp "the language"s! ("ga" is "speak", "in" is "thing", and "s" is nominative, so/then "gains" is "the language" in English!)
+and then, we can have a simple dialog:
+hus umaf xotinf ǐumoa (I want good food!)
+ja xotins umas (And the food is good!)
+ûmmmm... ka ǔapuloa... tis mek, ka?...(hummmm... I don't know... from you/it's from you, is not?)
+## 4. Vocabulary
+hu = I
+ǵa = he/she/other
+ti = it
+me = you
+tok = to move, to go
+xot = to eat
+ul = to drink
+pul = to see
+mok = to use
+ǐum = to wish/want
+ǖma = reproduce/sex
+üma = to hurt
+fu = to punch
+fū = to desappear
+luf = to flow, to talk
+sofū = to kill (slash until dead)
+sofu = to destroy (slash and punch)
+aǐ = to feel
+umāǐ = to like, happy (good feel)
+kûgaǐ = to hate, sad (bad feel)
+ga = to speak
+in = to thing
+ǔapul = know
+ulin = drink (the l here is dark l)
+χotin = food
+frik = animal
+fī = sun/time
+ifī = tomorrow
+ofī = today
+afī = yesterday
+pulin = place (thing to see)
+si = to do
+fe = receive, suffer something
+so = cut, slash
+inso = divide, share
+kria = to restrict
+kra = florest
+ka = not
+uma = good
+kûɡ = bad
+ǔa = beyond
+ǔauma = wonderful (beyond good)
+ǔakûg = terrible (beyond bad)
+ǔasofū = to humiliate (beyond kill)
+ǔō = beautiful
+fi = fast
+kafi = slow
+kraso = to colonize (slash a forest)
+krasofū = to genocide (kill a forest)
+umasīn = virtue (good action)
+kriain = property (thing to restrict)
+kûgǔafrikoǐ = mass (bad/non-working people)
+ǔōkûg = tempting (beautifuly bad)
+kafiso = to torture, to curse (slowly slash)
+and: ǐa
+or: va
+that (it is a simple phrase chainer here): ǐe
+also, the adjectifier for verbs is "ǐe"
+ǔafrik = human, person (more-than-animal)
+
+some interjections:
+umai mei = hello (for good you literally)
+ǔoi = hi
+fīg = bye (for the sun literally)
+

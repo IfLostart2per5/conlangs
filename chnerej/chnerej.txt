@@ -1,0 +1,188 @@
+Chnerej: Uma língua diretamente derivada do proto-indo-europeu.
+sons e sua romanização:
+essa reconstrução vai supor que os laringais tem os seguintes valores: h1 = /h/, h2 = /x/, h3 = /hʷ/ (19/07/2026, 23:08)
+(eu nao sei mais o que eu to fazendo, mexendo nesse negocio 6-10 horas dps de ter feito, 17/05/2026, 01:06)
+(EU SEI O QUE TO FAZENDO! 15/06/2026, 16:00)
+a /a/ (vindo de vogais perto do h2 do PIE) 
+e /e ~ ɛ/
+o /o/
+ò /ɔ/
+i /i/
+u /u/
+eh /eː/
+ah /aː/
+oh /oː/
+ih /iː/
+uh /uː/
+òh /ɔː/
+h /h/ (este som funde h e hw, ou h1 e h3)
+ch (/x/) (vindo do h2)
+s /s/
+z (/ɕ ~ ʃ/) (vem de si)
+c (/ç/) (vem do h2i)
+tz (/t͡ʃ ~ t͡ɕ/) (vem do ti)
+dz (/d͡ʒ ~ d͡ʑ/)(vem do di)
+tc (/c͡ç/) (vem do ḱ/ki)
+dc (/ɟ͡ʝ/) (vem do ǵ/gi)
+tzh (/t͡ʃʰ/) (vem do dhi)
+kh (/kʰ/) (ph, th e kh vêm do bh, dh e gh)
+ph (/pʰ/)
+th (/tʰ/)
+tch (/c͡çʰ/) (vem do ǵh/ghi)
+p /p/
+k /k/
+t /t/
+b /b/
+d /d/
+g /g/
+l /l/
+r /r ~ ɾ/
+m /m/
+n /n/
+j /j/
+w /w/
+' (esse daqui não é um som propriamente dito,
+ele serve para separar dígrafos, de forma que eles sejam lidos como literalmente dois sons somente,
+e não um som único modificado (por exemplo, t'cha é lido como /txa/, enquanto tcha é lido como /c͡ça/))
+
+mudanças em relação ao PIE (aplicadas na ordem em que estão definidas):
+1. simplificação de clusters como wl, wr, wn etc.
+2. h1 alonga a vogal anterior, se houver. Ele se preserva em ataque de sílaba, como h.
+3. h3, que vira um intermediario hw (h arredondado), arredonda as vogais próximas, normalmente a frente e atrás. Algo como: e->o, a->ò, i->u
+4. hw vira um simples h, que persiste qualquer posição da sílaba.
+5. o h2 vira um ch, e abre as por perto se forem curtas, em algo como o->ò, u->ò, e->a,.
+3. perda massiva do w em várias posições. entre vogais tende a arredondar as vogais em volta e sumir. Em consoantes simplesmente some. Somente em inicio de palavra que se preserva. Consoantes labiovelares também somem e viram consoantes simples
+4. queda de encontros nasais como n g n/ng n, normalmente colapsam em um único n
+5. bh, dh, gh, ǵh, bh1. dh1, gh1, ph1, th1, kh1, ǵh1, ḱh1 tornam-se ph, th e kh, ḱh
+6. palatalização massiva, de ch, t, k, d, g, th, kh, ḱh, s, ǵ e ḱ (descritos nos fonemas acima), antes do i, ou no caso do ḱ e do ǵ, palatalizam-se sozinhos
+7. queda de vogais atonas:
+   1. e, i e u curtos somem (por consequencia, silabas envolvendo algo como w + e/i/u + l/r transformam-se em l/r)
+   2. a, o e ò viram um e curto
+   3. vogais longas reduzem-se a um 'a' ou 'e' dependendo de qual (ah e òh viram a, eh, ih e uh viram e, oh vira o/e (varia))
+8. o h de encontros somem (exceto hr)
+
+regras mais "da língua":
+1. palavras enclíticas tendem a perder vogal com frequencia se estiverem ao lado de outras palavras, mas a ganharem denovo se aparecerem isoladas
+2. se um som aparece escrito entre parenteses no meio da palavra, é por que nem sempre é estável
+
+exemplos
+*dwóh1 (dois) = doh
+*ph2tér/ph2téér (pai) -> pchtéhr
+*méh2teer (mãe) -> méchter
+*de´km (dez) -> detcm
+*h1ngwnís (fogo) -> hngnis -> hnihs -> nihs
+*h1esh2r (sangue) -> haschr
+*bher- (carregar) -> ph(e)r-
+*wlkwos (lobo) -> lokes
+*h2ner (homem) -> chnar
+*dhghm (pessoa/terra) -> khum
+*tuh2 (tu) -> tòch
+*h1éǵhom (eu) -> hetchem
+*gwenh2 (mulher) -> gwanch -> ganch
+*bhréh2teer -> bhrachteer -> phrachteer -> phracht(e)r
+welch -> wolch 
+numerais:
+(composição deliberada): *ne + *h1es + *to (partícipio passivo) + -s (nominativo animado) -> nehestos -> nhestos (zero. Era uma cultura mágica, q envolvia manipulação de quantidade precisa)
+*óynos -> ojnes (praticamente igual) (1)
+*dwóh1 -> doh (2)
+*tréyes -> trejes -> trejs (o e some antes, e é 3)
+*kwetwóres -> ketores -> ktors (4)
+*pénkwe -> penke -> penk (5)
+*swéḱs -> seḱs -> setcs (6)
+*septm -> septm (igual, 7)
+*oḱtóów -> otctoh/etctoh (8)
+*h1newn -> nehn (9)
+*deḱm -> detcm (10)
+*ḱmtóm -> tcmtom (100)
+conjunções:
+*kwe (e) -> k(e)
+*we (ou) -> w(e)
+
+conjugação de verbos atematicos ('hes-", ser será um exemplo)
+hetchem hesm (eu sou)
+tòch hez (tu és)
+tod hestz (aquilo é)
+wejdo hesos (nós dois somos)
+wej hesmes (nós somos)
+jòchdoh hesths (voces dois são)
+jòch hest (voces são)
+doh hests (eles dois são)
+tach hesntz (eles são)
+
+conjugação de verbos temáticos (pher- será um exemplo)
+hetchem phere (vogal e, vindo do ò, vindo do -och)
+tóch pherz (vogal zero, vindo do e)
+tod phertz (vogal zero, vinda do e)
+wejdoh phero (vogal o, vindo do oh, vindo do ewo)
+jòchdoh phero (vogal o, a mesma coisa)
+doh pherter (vogal zero, vinda do e)
+wej pherems (vogal e, vinda do o)
+jòch phert (vogal zero, vinda do e)
+tach pherentz (vogal e, vinda do o)
+
+declinação de pronomes
+hetchem (eu)
+me (me)
+men (meu)
+metche (pra/a mim)
+mei (instrumental)
+med (de mim/desde mim)
+moj (em mim)
+
+
+wej (nós)
+n(e)sm (nos) (o e final some, e sobra um e epentetico, que se encaixa na regra dos encliticos)
+nse (nosso/nossa)
+nsmej (a nós)
+nsmej (instrumental)
+n(e)smd (de nós/desde nós)
+n(e)sm (em nós)
+
+wejdo (nós dois)
+nho (nós dois, objeto)
+noh (a/instrumental/de/desde/em nós dois)
+
+tòch (tu)
+t(e) (te)
+toh/to (teu/tua)
+phoh (a ti/pra ti)
+tei (instrumental)
+ted (de ti/desde ti)
+toj (em ti)
+
+jòch (vós/vocês) (vós é sinonimo de vocês)
+usm (vos)
+jusoh/isoh (vosso/vossa)
+usmej (a vós/pra vós)
+usmej (intrumental)
+usmed (de vós/desde vós)
+usm (em vós)
+
+jòchdo (vós dois)
+juh/ju (vós dois, objeto)
+woh (a/instrumental/de/desde/em vós dois)
+
+frases básicas
+HOOJ! tòch hez ka??? (OIII! ESTÁS AQUI??)
+hetchem hesm, tòch hez, lokes hestz (eu sou, tu és, o lobo é)
+hetchem lokem welm (Eu quero um lobo)
+k'd wost tod? (o que foi aquilo?)
+tòch hez phrachter men, me? (tu és o meu irmão, né?)
+phoh. tòch... welz... kid? òh, mnej (Pra ti. Queres? Ah, entendi)
+kid? (isso?)
+welm... kid ke welm-kt (quero... isso e quero-isso)
+
+Pchter nso ks hez dzoh, hrotu hnomn toh; gemnto hrogejthkhum toh; thohtu wel toh, ted thkhmem k dzoh (Pai nosso que estás no céu, engradeça-se o teu nome, venha o teu reino; faça-se tua vontade, assim na terra e no céu)
+Pchter nse ks hez dzoh, hrot nomn toh; gemnte hrogejkhm toh; thoht l toh, ted khmem k dzoh (forma mais moderna)
+
+Jakeps: eh! hoj!
+Alzandr: hoj!
+Jakeps: ks hez?
+Alzandr: Alzandr hesm, ktòch?
+Jakeps: Jakeps hesm! kot jera pherez?
+Alzandr: septm.
+Jakops: etctoh.
+Alzandr: doths! mmm... hor welz?
+Jakops: WELECH!
+
+
