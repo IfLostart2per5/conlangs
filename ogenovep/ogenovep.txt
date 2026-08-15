@@ -76,17 +76,21 @@ aspecto:
   -u = concluido
 volição:
   -m = desejo
-  -p = acidente, nao volitivo
+  -p = acidente, nao volitivo porem com o agente animado
   -g = obrigação
   -x = necessidade
-  -k = não se sabe/não se quer mostrar
+  -k = involitivo (usar isso daqui quando o sujeito tem capacidade de volição é bem estranho, por isso usa-se quando o sujeito é inanimado ou incapaz de ter algum grau de controle sobre si)
 negação: -y
 imperativo: -i
+infinitivo cocnjugado por volição: -e
+infinitivo neutro: (nada)
 
 põe-se esses elementos concatenados em ordem ao conjugar:
 normal: tempo aspecto volição [negação]
-negação do infinitivo: negação somente
+negação do infinitivo: volição negação
 imperativo: volição imperativo
+infinitivo conjugado: infinitivo volição [negação]
+
 o [] indica opcionalidade
 a sua falta indica obrigatoriedade
 
@@ -131,6 +135,8 @@ particulas extras (podem estar no começo de uma frase, ou logo após o verbo):
 ny = condicional (se)
 xe = potencial (poderia ocorrer?)
 ke = optativo (tem permissão?)
+ky = não optativo
+xy = não poderia acontecer
 lu = então
 
 pronomes interrogativos se formam muito com o campo vn (desconhecido):
